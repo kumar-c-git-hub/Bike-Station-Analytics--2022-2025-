@@ -129,7 +129,7 @@ Created **interactive Power BI dashboards** featuring:
 * **Performance Tables:** Top stations by availability and utilization
 * **Trend Analysis:** Bike availability evolution (2022–2025)
 
-* <img width="976" height="551" alt="Home" src="https://github.com/user-attachments/assets/9c29e5ed-5c1c-453f-840b-073987762f7e" />
+<img width="976" height="551" alt="Home" src="https://github.com/user-attachments/assets/9c29e5ed-5c1c-453f-840b-073987762f7e" />
 
 ***
 
