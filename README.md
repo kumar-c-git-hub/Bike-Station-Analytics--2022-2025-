@@ -3,16 +3,17 @@
 > **Tools:** Power BI | Power Query | DAX | Data Modeling
 > **Domain:** Transportation | Public Bike Sharing
 
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/bicycle.svg" width="20"/> Bike Station Analytics (2022–2025)
+## 🚲 Bike Station Analytics (2022–2025)
 
-Tools:
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/bar-chart-fill.svg" width="16"/> Power BI |
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/funnel-fill.svg" width="16"/> Power Query |
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/calculator-fill.svg" width="16"/> DAX |
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/diagram-3-fill.svg" width="16"/> Data Modeling
+**Tools:**  
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/bar-chart-fill.svg" width="16"/> Power BI &nbsp; | &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/funnel-fill.svg" width="16"/> Power Query &nbsp; | &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/calculator-fill.svg" width="16"/> DAX &nbsp; | &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/diagram-3-fill.svg" width="16"/> Data Modeling  
 
-Domain:
+**Domain:**  
 <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/bicycle.svg" width="16"/> Transportation | Public Bike Sharing
+
 ***
 
 ## 🧩 Project Overview
